@@ -1,0 +1,21 @@
+button{
+    background-color: black;
+    color:red ;
+    height: 10vh;
+    width: 10vh;
+    block-size: 5vh;
+    position: relative;
+    border-radius: 8vh;
+    display: block;
+}
+
+input{
+    color: red;
+    height: 10vh;
+    width: 10vh;
+    block-size: 5vh;
+    position: relative;
+    margin-top: 25rem;
+    border-radius: 8vh;
+
+}
