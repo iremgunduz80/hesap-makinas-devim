@@ -18,6 +18,10 @@ input{
     margin-top: 25rem;
     border-radius: 8vh;
 
-
-
+}
+.hesap-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
 }
